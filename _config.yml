@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
+title: Attack Resistance Defense Mechanism
+description:
+show_downloads: false
