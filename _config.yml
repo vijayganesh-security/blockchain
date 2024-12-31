@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Attack Resistance Defense Mechanism
+title: Applications and Security of Blockchain
 description:
 show_downloads: false

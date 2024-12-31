@@ -23,21 +23,6 @@ We applied our analysis to certain variants of address space layout randomizatio
 **Q5: What are the future goals of this project?**
 We want to apply our approach to other defense mechanisms (e.g., DieHarder), side-channel defenses, as well as to cryptographic obfuscation methods.
 
-# People
-
-
-## Principal Investigators
-- [Vijay Ganesh](https://vganesh1.github.io/){:target="_blank"}, Georgia Institute of Technology
-- [Martin Ochoa](http://dblp.uni-trier.de/pers/hd/o/Ochoa:Mart=iacute=n){:target="_blank"}, Singapore University of Technology and Design
-- [Sebastian Banescu](https://www.in.tum.de/i04/banescu/){:target="_blank"}, Quantstamp Inc
-
-
-## Researchers
-- [Gilles Barthe](https://software.imdea.org/people/gilles.barthe/){:target="_blank"}, IMDEA Software
-- [Mayank Varia](http://www.mvaria.com/){:target="_blank"}, Boston University
-- [Cynthia Disenfeld](https://dblp.org/pid/57/11135.html) , University of Toronto
-
-
 # Publications and Slides
 
 - **Martin Ochoa, Sebastian Banescu, Cynthia Disenfeld, Gilles Barthe, and Vijay Ganesh**  
@@ -56,4 +41,6 @@ Cryptographic Path Hardening: Hiding Vulnerabilities in Software through Cryptog
 **Off-the-Beaten-Path Workshop @ POPL 2012, Philadelphia, PA, USA, January 22, 2012.**  
 [[pdf](https://arxiv.org/abs/1202.0359?context=cs){:target="_blank"}][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-1202-0359.html?view=bibtex){:target="_blank"}]
 
+## More Information
+1. [Attack Resistant Repository](https://vijayganesh-security.github.io/attack-resistance){:target="_blank"}
 
